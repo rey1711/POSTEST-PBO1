@@ -11,3 +11,4 @@ Di dalam pagkage MAIN terdapat 1 class yaitu Mainapp
 Di dalam package MODEL terdapat 2 class yaitu tiket dan sistem_penjualan_tiket
 
 #Penjelasan program
+
